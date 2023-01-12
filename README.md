@@ -19,8 +19,6 @@
 <br/>
 <br/>
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=sarab97&show_icons=true&hide_border=true&count_private=true&theme=vue" />
-
 [website]: https://sarabsingh.com
 [twitter]: https://twitter.com/sarabsingh97
 [instagram]: https://www.instagram.com/1.464591/
