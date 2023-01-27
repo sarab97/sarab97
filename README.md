@@ -21,6 +21,7 @@
 
 [website]: https://sarabsingh.com
 [twitter]: https://twitter.com/sarabsingh97
+[mastodon]: https://fosstodon.org/@sarab
 [instagram]: https://www.instagram.com/1.464591/
 [linkedin]: https://www.linkedin.com/in/sarabsingh97/
 [youtube]: https://youtube.com/c/SarabSingh97
