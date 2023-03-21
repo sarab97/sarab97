@@ -1,10 +1,4 @@
-### Hi there 👋, I'm Sarabdeep Singh
-
-- 🔭 I’m currently working on **AI based Voice Assistant/IoT/Home Automation/Stock Prices Prediction**
-- 🌱 I’m currently learning **AI/IoT/DevOps**
-- 👯 I’m looking to collaborate on **Any Interesting Innovative Project**
-- 😻 Interests **Anything and Everything that involves Technology or Finance**
-- 💬 Ask me about **Anything thats on my Interest**
+### Hi there 👋, I'm Sarab Singh
 
 ### Connect with me:
 
